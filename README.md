@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-👨‍💻 I am a full-stack Laravel developer with over five years of professional experience building reliable and scalable web applications across **real estate**, **construction**, and **property-services** industries. 🏗️🏡
+👨‍💻 I am a full-stack Laravel developer with over five years of professional experience building reliable and scalable web applications. 🏗️🏡
 
-I work confidently across both backend and frontend stacks using **Laravel**, **PHP**, **Vue.js/Nuxt**, **Tailwind CSS**, **REST APIs**, **Redis**, and modern **CI/CD** workflows. ⚙️
+I work confidently across both backend and frontend stacks using **Laravel**, **PHP**, **Vue.js**, **Tailwind CSS**, **REST APIs** and modern **CI/CD** workflows. ⚙️
 
-I have delivered production platforms including **real-estate bidding systems**, **construction project-management tools**, and **high-traffic SaaS apps**. My work spans backend architecture, API design, UI implementation, performance improvements, and troubleshooting complex issues. 🧩
+I have delivered production platforms including **ecommerce applications**, **construction project-management tools**, and **high-traffic SaaS apps**. My work spans backend architecture, API design, UI implementation, performance improvements, and troubleshooting complex issues. 🧩
 
 I enjoy solving challenging problems, collaborating with cross-functional teams, and turning requirements into clean, maintainable software that users and businesses rely on every day. 🚀
