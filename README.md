@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-👨‍💻 I am a full-stack Laravel developer with over five years of professional experience building reliable and scalable web applications. 🏗️🏡
+👨‍💻 I am a full-stack developer with over 6 years of professional experience building reliable and scalable web applications. 🏗️🏡
 
 I work confidently across both backend and frontend stacks using **Laravel**, **PHP**, **Vue.js**, **Tailwind CSS**, **REST APIs** and modern **CI/CD** workflows. ⚙️
 
