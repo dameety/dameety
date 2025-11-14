@@ -10,7 +10,7 @@
 
 👨‍💻 I am a full-stack developer with over 6 years of professional experience building reliable and scalable web applications. 🏗️🏡
 
-I work confidently across both backend and frontend stacks using **Laravel**, **PHP**, **Vue.js**, **Tailwind CSS**, **REST APIs** and modern **CI/CD** workflows. ⚙️
+I work confidently across both backend and frontend stacks.
 
 I have delivered production platforms including **ecommerce applications**, **construction project-management tools**, and **high-traffic SaaS apps**. 
 
