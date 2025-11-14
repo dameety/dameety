@@ -16,7 +16,7 @@ I work confidently across both backend and frontend stacks.
 
 I have delivered production platforms including ecommerce applications, construction project-management tools, and high-traffic SaaS apps.
 
-🔭 I enjoy solving challenging problems, collaborating with cross-functional teams, and turning requirements into clean, maintainable software that users and businesses rely on every day. 🚀
+🔭 I enjoy solving challenging problems, collaborating with cross-functional teams, and turning requirements into clean, maintainable software that users and businesses rely on every day.
 
 
 ## 🛠️ Toolset
