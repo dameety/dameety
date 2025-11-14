@@ -20,7 +20,7 @@ I enjoy solving challenging problems, collaborating with cross-functional teams,
 ## 🛠️ Toolset
 
 **Backend:** PHP/Laravel, Python/Django  
-**Frontend:** VueJS, React, Tailwind CSS, HTML, CSS
+**Frontend:** VueJS, React, Tailwind CSS, HTML, CSS  
 **DevOps:** Docker, Nginx, DigitalOcean, CI/CD  
 **Testing:** PHPUnit, Pest, Dusk  
 
